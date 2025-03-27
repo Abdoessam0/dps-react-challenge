@@ -1,5 +1,5 @@
 ## DPS Frontend Coding Challenge
-1
+
 ## Overview
 
 This repository contains a very basic web application based on Typescript and React. Main application file is `App.tsx`. Node and npm are required.
