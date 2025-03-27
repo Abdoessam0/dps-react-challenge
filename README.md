@@ -1,4 +1,4 @@
-# DPS Frontend Coding Challenge
+## DPS Frontend Coding Challenge
 
 ## Overview
 
